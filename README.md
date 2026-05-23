@@ -4,7 +4,8 @@
 
 ## Git
 
-- [SSH key Generation for GitHub & GitLab](./git/ssh-key-generate.md)
+- [SSH Key — Quick Reference](./git/ssh-key-quick-reference.md) — copy-paste commands
+- [SSH Key — Full Guide](./git/ssh-key-generate.md) — step-by-step with explanations
 
 ---
 
