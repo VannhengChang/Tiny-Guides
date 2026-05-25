@@ -9,4 +9,10 @@
 
 ---
 
+## Projects
+
+→ **[RollingNumbers-SwiftUI](https://github.com/VannhengChang/RollingNumbers-SwiftUI)** — SwiftUI rolling number animation (SPM)
+
+---
+
 One topic per file.
